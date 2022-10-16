@@ -1,0 +1,1 @@
+John,Doe,admin,123,M123M,married,manager,weekly,tuesday,15,0.0

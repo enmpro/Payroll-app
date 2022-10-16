@@ -1,0 +1,2 @@
+John,Doe,admin,123,M123M,married,manager,weekly,monday,25,0.0
+Clark,Kent,ClarkKent,123,John Doe,single,Superhero,weekly,tuesday,15,0.00

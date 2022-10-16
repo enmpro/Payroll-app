@@ -1,0 +1,1 @@
+Clark,Kent,ClarkKent,321,John Doe,MARRIED,Goofy Goober,weekly,thursday,15,17.000000
